@@ -1,0 +1,9 @@
+﻿  ConsoleApplication7.cpp
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(6): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(7): warning C4244: 'initialisation' : conversion de 'time_t' en 'long', perte possible de données
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(10): warning C4477: 'printf' : la chaîne de format '%lld' nécessite un argument de type '__int64', mais l'argument variadique 1 est de type 'long'
+  c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(10): note: utilisez '%ld' dans la chaîne de format
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): error C3861: 'srand' : identificateur introuvable
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(15): error C3861: 'rand' : identificateur introuvable
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(19): warning C4244: '/=' : conversion de 'double' en 'int', perte possible de données
+c:\users\etourniquet\desktop\c++\consoleapplication7\consoleapplication7\consoleapplication7.cpp(20): warning C4477: 'printf' : la chaîne de format '%.2f' nécessite un argument de type 'double', mais l'argument variadique 1 est de type 'int'

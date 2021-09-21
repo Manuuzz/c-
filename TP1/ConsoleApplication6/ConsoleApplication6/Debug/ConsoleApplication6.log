@@ -1,0 +1,5 @@
+﻿  ConsoleApplication6.cpp
+c:\users\etourniquet\desktop\c++\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): warning C4473: 'printf' : nombre insuffisant d'arguments passés pour la chaîne de format
+  c:\users\etourniquet\desktop\c++\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): note: les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 0 ont été fournis
+  c:\users\etourniquet\desktop\c++\consoleapplication6\consoleapplication6\consoleapplication6.cpp(11): note: l'argument variadique manquant 1 est demandé par la chaîne de format '%d'
+  ConsoleApplication6.vcxproj -> C:\Users\ETourniquet\Desktop\C++\ConsoleApplication6\Debug\ConsoleApplication6.exe
